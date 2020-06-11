@@ -37,8 +37,8 @@ Envie um POST para: (https://localhost:8080/login) colocando no payload alguma c
 - Para logar-se como funcionário, envie no payload os seguintes dados
 ```
 {
-    user: funcionario
-    senha: funcionario
+    user: usuario
+    senha: usuario
 }
 ```
 #### Modelo de respostas
